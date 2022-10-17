@@ -5,12 +5,12 @@ HI,
 I need speakers to help the mentees. 
 This is the program form [Mentorship form](https://forms.gle/Zcwt4ShCVghetCaCA) and [Mentorship content](https://docs.google.com/document/d/18KYaq9mts_ElizoYmvI9cvojhPy6i6PoNCJk8-GsYKA/edit?usp=sharing)
 
-### Contributions
-- Pick a week you can contribute to and submit your contribution via this [GitHub repo](https://github.com/wise4rmgod/TechnicalWriterResources). let's go!!!
+### Contribution
+- Pick a week you can contribute to and submit your contribution via this [GitHub repo](https://github.com/wise4rmgod/TechnicalWriterResources)
 - Fork this repository to create a pull request
 - You should add your file in the folder `content` -> `post`
 - why cant i see changes
-- Add this at the beginning of your file and edit accordingly
+- Add this at the beginninggit of your file and edit accordingly
 ```
  +++
 author = "Wisdom"
@@ -30,7 +30,7 @@ description = "This is a technical writing introduction"
 
 We welcome contributions from the community! If you'd like to submit a new community writing job (fulltime, part-time or freelance), please make a pull request directly and we'll review it.
 
-If you'd like to suggest a change to the data or the way it's organized here, please create an issue first so we can discuss it. then it is done.
+If you'd like to suggest a change to the data or the way it's organized here, please create an issue first so we can discuss it. Then it is done.
 
 # Pull Request Process
 
